@@ -44,7 +44,7 @@
 *.SOL linguist-detectable=true
 *.kicad_pcb linguist-detectable=true
 *.pro linguist-detectable=true
-*.md linguist-detectable=true
+*.md linguist-language=Markdown
 *.pdf linguist-detectable=true
 *.dxf linguist-detectable=true
 *.dwg linguist-detectable=true

@@ -1,3 +1,7 @@
+# author: https://github.com/SynthesisDu
+# This document allows GitHub to correctly identify Altium Designer, KiCAD, Gerber and Eagle documents and add them to GitHub Repository's language statistics.  
+# 这个文档可以使GitHub正确的识别Altium Designer、KiCAD、Gerber以及Eagle的文档，并将它们加入到GitHub Repository的语言统计中。
+
 *.OutJob linguist-detectable=true
 *.PcbDoc linguist-detectable=true
 *.PrjPCB linguist-detectable=true
@@ -7,6 +11,7 @@
 *.prjpcb linguist-detectable=true
 *.schdoc linguist-detectable=true
 *.sch linguist-detectable=true
+*.lib linguist-detectable=true
 *.epf linguist-detectable=true
 *.brd linguist-detectable=true
 *.pro linguist-detectable=true
@@ -44,7 +49,3 @@
 *.SOL linguist-detectable=true
 *.kicad_pcb linguist-detectable=true
 *.pro linguist-detectable=true
-*.md linguist-language=Markdown
-*.pdf linguist-detectable=true
-*.dxf linguist-detectable=true
-*.dwg linguist-detectable=true

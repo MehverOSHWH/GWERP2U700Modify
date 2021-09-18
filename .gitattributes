@@ -10,6 +10,7 @@
 *.pcbdoc linguist-detectable=true
 *.prjpcb linguist-detectable=true
 *.schdoc linguist-detectable=true
+*.PCB linguist-detectable=true
 *.sch linguist-detectable=true
 *.lib linguist-detectable=true
 *.epf linguist-detectable=true
@@ -49,3 +50,8 @@
 *.SOL linguist-detectable=true
 *.kicad_pcb linguist-detectable=true
 *.pro linguist-detectable=true
+*.obj linguist-detectable=true
+*.stl linguist-detectable=true
+*.md linguist-detectable=true
+*.dxf linguist-detectable=true
+*.dwg linguist-detectable=true

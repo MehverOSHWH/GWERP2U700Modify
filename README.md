@@ -1,7 +1,5 @@
-<font size='80'>
-
 <details>
- <summary>【Language | 切换语言】</summary>
+ <summary><font size='50'>【Language | 切换语言】</font></summary>
 <br>
 
 **> English**
@@ -15,11 +13,11 @@
 <br>
 **> Line1**
 
+
 <a href='.\DocForREADME\mainREADME -English -Line2.md'>Line2</a>
 
 </details>
 
-</font>
 
 ## <mainREADME -English -Line1>
 

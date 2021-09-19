@@ -4,6 +4,8 @@
 
  <summary>【Language | 切换语言】</summary>
 
+<br>
+
 **> English**
 
 <a href='.\mainREADME -Chinese -Line1.md'>简体中文</a>
@@ -13,6 +15,8 @@
 <details>
 
  <summary>【Image Spare Line | 图片加载备线】</summary>
+
+<br>
 
 <a href='..\README.md'>Line1</a>
 

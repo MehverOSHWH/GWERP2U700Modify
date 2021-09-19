@@ -1,4 +1,4 @@
-<font size='50'>
+<font size='80'>
 
 <details>
  <summary>【Language | 切换语言】</summary>
@@ -11,9 +11,8 @@
 </details>
 
 <details>
- <summary>【Image Spare Line | 图片加载备线】</summary>
+ <summary>【Image Spare Line】</summary>
 <br>
-
 **> Line1**
 
 <a href='.\DocForREADME\mainREADME -English -Line2.md'>Line2</a>

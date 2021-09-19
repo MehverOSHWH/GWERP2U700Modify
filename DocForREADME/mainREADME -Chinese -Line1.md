@@ -1,4 +1,4 @@
-<font size='50'>
+<font size='80'>
 
 <details>
 
@@ -14,7 +14,7 @@
 
 <details>
 
- <summary>【Image Spare Line | 图片加载备线】</summary>
+ <summary>【图片加载备线】</summary>
 
 <br>
 

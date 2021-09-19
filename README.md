@@ -5,7 +5,7 @@
 
 **> English**
 
-[简体中文](.\DocForREADME\mainREADME -Chinese -Line1.md)
+<a href='.\DocForREADME\mainREADME -Chinese -Line1.md'>简体中文</a>
 
 </details>
 
@@ -14,7 +14,7 @@
 
 **> Line1**
 
-[Line2](.\DocForREADME\mainREADME -English -Line2.md)
+<a href='.\DocForREADME\mainREADME -English -Line2.md'>Line2</a>
 
 </details>
 

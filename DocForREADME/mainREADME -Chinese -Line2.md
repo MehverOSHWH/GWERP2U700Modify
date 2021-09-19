@@ -4,7 +4,7 @@
 
  <summary>【Language | 切换语言】</summary>
 
-[English](..\README.md)
+<a href='..\README.md'>English</a>
 
 **> 简体中文**
 
@@ -14,7 +14,7 @@
 
  <summary>【Image Spare Line | 图片加载备线】</summary>
 
-[Line1](.\mainREADME -Chinese -Line1.md)
+<a href='.\mainREADME -Chinese -Line1.md'>Line1</a>
 
 **> Line2**
 
@@ -22,7 +22,7 @@
 
 </font>
 
-## <mainREADME -English -Line1>
+## <mainREADME -Chinese -Line2>
 
 # GW-ERP2U700
 

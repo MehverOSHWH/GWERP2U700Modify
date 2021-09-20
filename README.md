@@ -1,25 +1,10 @@
-<details>
-<summary>【Language | 切换语言】</summary>
-<br>
+**> English -Line1**
 
-**> English**
+<a href='.\DocForREADME\mainREADME -English -Line2.md'>English -Line2</a>
 
-<a href='.\DocForREADME\mainREADME -Chinese -Line1.md'>简体中文</a>
+<a href='.\DocForREADME\mainREADME -Chinese -Line1.md'>简体中文 -线路1</a>
 
-</details>
-
-<details>
-<summary>【Image Spare Line】</summary>
-<br>
-
-**> Line1**
-
-<a href='.\DocForREADME\mainREADME -English -Line2.md'>Line2</a>
-
-</details>
-
-
-## <mainREADME -English -Line1>
+<a href='.\DocForREADME\mainREADME -Chinese -Line2.md'>简体中文 -线路2</a>
 
 # GW-ERP2U700
 

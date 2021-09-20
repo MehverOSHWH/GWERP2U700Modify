@@ -1,28 +1,11 @@
-<details>
+<a href='..\README.md'>English -Line1</a>
 
-<summary>【Language | 切换语言】</summary>
+<a href='.\mainREADME -English -Line2.md'>English -Line2</a>
 
-<br>
+**> 简体中文 -线路1**
 
-<a href='..\README.md'>English</a>
+<a href='.\mainREADME -Chinese -Line2.md'>简体中文 -线路2</a>
 
-**> 简体中文**
-
-</details>
-
-<details>
-
- <summary>【图片加载备线】</summary>
-
-<br>
-
-**> Line1**
-
-<a href='.\mainREADME -Chinese -Line2.md'>Line2</a>
-
-</details>
-
-## <mainREADME -Chinese -Line1>
 # GW-ERP2U700
 
 Server power supply GW-ERP2U700's MOD refit to full module.

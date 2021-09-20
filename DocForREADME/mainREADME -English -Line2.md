@@ -1,9 +1,6 @@
-<font size='80'>
-
 <details>
 
  <summary>【Language | 切换语言】</summary>
-
 <br>
 
 **> English**
@@ -15,7 +12,6 @@
 <details>
 
  <summary>【Image Spare Line】</summary>
-
 <br>
 
 <a href='..\README.md'>Line1</a>
@@ -24,15 +20,13 @@
 
 </details>
 
-</font>
-
 ## <mainREADME -English -Line2>
 
 # GW-ERP2U700
 
 Server power supply GW-ERP2U700's MOD refit to full module.
 
-![_DSC3125](.\\DismantlingFigure\_DSC3125.JPG)
+![_DSC3125](.\DismantlingFigure\_DSC3125.JPG)
 
 ## 1 Reverse
 
@@ -47,9 +41,12 @@ Server power supply GW-ERP2U700's MOD refit to full module.
 
 ## 2 Exploit
 
+<div>
+<img width="50%" src=".\Renderer\_2021-Sep-20_07-39-32AM-000_CustomizedView37736126345_png_alpha.png" /><img width="50%" src=".\Renderer\_2021-Sep-20_07-42-19AM-000_CustomizedView4419304241_png_alpha.png" />
+</div>
+
+
 <details>
-
-
 <summary>【View More】</summary>
 
 

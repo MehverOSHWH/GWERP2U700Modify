@@ -1,5 +1,5 @@
 <details>
-<font size='300'> <summary>【Language | 切换语言】</summary></font>
+<summary>【Language | 切换语言】</summary>
 <br>
 
 **> English**
@@ -9,7 +9,7 @@
 </details>
 
 <details>
- <summary><font size='300'>【Image Spare Line】</font></summary>
+<summary>【Image Spare Line】</summary>
 <br>
 
 **> Line1**

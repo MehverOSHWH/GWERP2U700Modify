@@ -1,8 +1,6 @@
-<font size='80'>
-
 <details>
 
- <summary>【Language | 切换语言】</summary>
+<summary>【Language | 切换语言】</summary>
 
 <br>
 
@@ -24,10 +22,7 @@
 
 </details>
 
-</font>
-
 ## <mainREADME -Chinese -Line1>
-
 # GW-ERP2U700
 
 Server power supply GW-ERP2U700's MOD refit to full module.
@@ -38,7 +33,6 @@ Server power supply GW-ERP2U700's MOD refit to full module.
 
 <details>
 
-
  <summary>【View More】</summary>
 
 
@@ -47,11 +41,12 @@ Server power supply GW-ERP2U700's MOD refit to full module.
 
 ## 2 Exploit
 
+<div>
+<img width="50%" src="https://i.postimg.cc/ZRvT1BzL/2021-Sep-20-07-39-32-AM-000-Customized-View37736126345-png-alpha.png" /><img width="50%" src="https://i.postimg.cc/m2fDWwD1/2021-Sep-20-07-42-19-AM-000-Customized-View4419304241-png-alpha.png" />
+</div>
+
 <details>
-
-
 <summary>【View More】</summary>
-
 
 
 </details>

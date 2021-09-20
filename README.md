@@ -1,5 +1,5 @@
 <details>
- <summary><font size='50'>【Language | 切换语言】</font></summary>
+ <summary><font size='100'>【Language | 切换语言】</font></summary>
 <br>
 
 **> English**
@@ -8,8 +8,8 @@
 
 </details>
 
-<details>
- <summary>【Image Spare Line】</summary>
+<details></font>
+ <summary><font size='100'>【Image Spare Line】</font></summary>
 <br>
 **> Line1**
 
@@ -42,15 +42,17 @@ Server power supply GW-ERP2U700's MOD refit to full module.
 <div>
 <img align="left" width="50%" src="https://i.postimg.cc/ZRvT1BzL/2021-Sep-20-07-39-32-AM-000-Customized-View37736126345-png-alpha.png" /><img align="right" width="50%" src="https://i.postimg.cc/m2fDWwD1/2021-Sep-20-07-42-19-AM-000-Customized-View4419304241-png-alpha.png" />
 </div>
-
+<br>
 <br>
 
+<div>
 <details>
 <summary>【View More】</summary>
 
 
 
 </details>
+</div>
 
 ## 3 License
 

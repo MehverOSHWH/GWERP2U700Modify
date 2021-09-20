@@ -39,7 +39,10 @@ Server power supply GW-ERP2U700's MOD refit to full module.
 
 ## 2 Exploit
 
- <img align="left" width="50%" src="https://i.postimg.cc/ZRvT1BzL/2021-Sep-20-07-39-32-AM-000-Customized-View37736126345-png-alpha.png" /><img align="right" width="50%" src="https://i.postimg.cc/m2fDWwD1/2021-Sep-20-07-42-19-AM-000-Customized-View4419304241-png-alpha.png" />
+<p>
+<img align="left" width="50%" src="https://i.postimg.cc/ZRvT1BzL/2021-Sep-20-07-39-32-AM-000-Customized-View37736126345-png-alpha.png" /><img align="right" width="50%" src="https://i.postimg.cc/m2fDWwD1/2021-Sep-20-07-42-19-AM-000-Customized-View4419304241-png-alpha.png" />
+</p>
+
 <br>
 
 <details>

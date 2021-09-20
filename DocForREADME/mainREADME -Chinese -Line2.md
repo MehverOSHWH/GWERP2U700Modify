@@ -26,7 +26,7 @@
 
 Server power supply GW-ERP2U700's MOD refit to full module.
 
-![_DSC3125](.\DismantlingFigure\_DSC3125.JPG)
+<img src=".\DismantlingFigure\_DSC3125.JPG" />
 
 ## 1 Reverse
 

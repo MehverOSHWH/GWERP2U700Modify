@@ -10,7 +10,7 @@
 
 Server power supply GW-ERP2U700's MOD refit to full module.
 
-![](https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.1/readme-pcb.png)
+![](https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png)
 
 ![_DSC3125](https://i.postimg.cc/pdjtbN7C/DSC3125.jpg)
 

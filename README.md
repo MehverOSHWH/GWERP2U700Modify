@@ -1,8 +1,8 @@
 # GW-ERP2U700 Modify
 
-Server power supply GW-ERP2U700's MOD refit to full module.
+长城ERP2U700电源改全模组。
 
-GW-ERP2U700 的全模组化改造。
+Modify power supply GW-ERP2U700 to full module.
 
 ![](https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png)
 

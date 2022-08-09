@@ -53,7 +53,7 @@
 *.kicad_pcb linguist-detectable=true
 *.pro linguist-detectable=true
 # *.obj linguist-detectable=true
-# *.stl linguist-detectable=true
+*.stl linguist-detectable=true
 # *.md linguist-detectable=true
 # *.dxf linguist-detectable=true
 # *.dwg linguist-detectable=true
